@@ -22,16 +22,12 @@
       "file_name": "rpk/o66_1.1.0.rpk"
     },
     "n67": {
-      "version": "v1.4.2",
-      "file_name": "rpk/n67_1.4.2.rpk"
+      "version": "v1.4.3",
+      "file_name": "rpk/n67_1.4.3.rpk"
     },
     "n66": {
       "version": "v2.0.2",
       "file_name": "rpk/n66_2.0.2.rpk"
-    },
-    "m67": {
-      "version": "v1.0.0",
-      "file_name": "rpk/m67_1.0.0.rpk"
     }
   }
 }
